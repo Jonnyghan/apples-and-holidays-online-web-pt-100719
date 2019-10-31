@@ -75,6 +75,7 @@ holiday_hash.each do |season, holiday|
       if stuff.include?("BBQ") == true 
         then puts [holiday , stuff]
       end
+      end
     end
   end
 end
